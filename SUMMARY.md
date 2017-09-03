@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Що це?](README.md)
+* [Прийняття рішень](chapter1.md)
+
