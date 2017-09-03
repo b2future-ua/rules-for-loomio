@@ -1,3 +1,6 @@
-# My Awesome Book
+# Правила для Loomio
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Типові правила для груп, що використовують [Loomio](https://www.loomio.org/) для обговорень та прийняття рішень.
+
+Окремі групи можуть адаптувати ці правила для своїх потреб, створивши гілку.
+

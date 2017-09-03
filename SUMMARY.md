@@ -1,5 +1,5 @@
 # Summary
 
-* [ntcn](README.md)
-* [First Chapter](chapter1.md)
+* [Що це?](README.md)
+* [Прийняття рішень](chapter1.md)
 
