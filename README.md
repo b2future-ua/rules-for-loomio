@@ -4,5 +4,5 @@
 
 Окремі групи можуть адаптувати ці правила для своїх потреб, створивши гілку.
 
-[Публічна сторінка](https://www.gitbook.com/book/b2future/rules-for-loomio) проекту у GitHBook.
+[Публічна сторінка](https://b2future.gitbooks.io/rules-for-loomio/content/) проекту у GitHBook.
 
