@@ -1,5 +1,6 @@
 # Summary
 
 * [Що це?](README.md)
-* [Прийняття рішень](chapter1.md)
+* [Типові правила](chapter1.md)
+* [Прийняття рішень в КП](priinyattya-rshen-v-kp.md)
 
